@@ -9,11 +9,10 @@ You can see, my GitHub is really outdated. I doubt it even reflects 1% of my kno
 
 I’m currently specializing in Flutter, focusing entirely on design systems, whitelabel projects, and scalable architecture in both design and business. My emphasis is always on cross-platform development, so I have experience creating for all environments.
 
-If you want to check out a recent project, visit: play.orbieapp.com.br.
+If you want to check out a recent project, visit: [Check out my recent project](https://play.orbieapp.com.br)
 #
 #
 #
-
 ### Versão em português
 # Opa galera, meu nome é Rodrigo Moraes
 ## Engenheiro da Computação
@@ -22,4 +21,4 @@ Como podem ver meu github é extremamente desatualizado, acredito que ele não r
 
 Atualmente sou especialista em Flutter, foco totalmente em design system, whitelabel, projetos com arquitetura escalavel tanto no design quanto no negocio, meu foco é sempre o multiplataforma, então tenho experiencia em desenvolver para todos os ambientes.
 
-Se quiser dar uma olhada em um projeto recente acesse: play.orbieapp.com.br
+Se quiser dar uma olhada em um projeto recente acesse: [Veja meu projeto recente](https://play.orbieapp.com.br)
